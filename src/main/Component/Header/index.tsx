@@ -10,7 +10,7 @@ const Header = ({ addHandler }: any) => {
 
     return (
         <HeaderContent>
-            <h1>Code Exam</h1>
+            <h1>CRUD Product</h1>
             <ButtonContent>
                 <Button variant="contained" onClick={() => addItemHandler()} >
                     Add Item
